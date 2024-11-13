@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 src/clusters_csv.csv
 src/test.ipynb
+src/result.html
